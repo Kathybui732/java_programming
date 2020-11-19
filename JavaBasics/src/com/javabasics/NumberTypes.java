@@ -67,5 +67,7 @@ public class NumberTypes {
         point1.x = 3;
         System.out.println(point1); // [x=3,y=1]
         System.out.println(point2); // [x=3,y=1]
+
+        // byte > short > int > long > float > double
     }
 }
