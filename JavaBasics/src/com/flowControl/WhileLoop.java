@@ -45,3 +45,11 @@ public class WhileLoop {
 // infinite while loops happen when the condition is always true, so it will run an infinite number of times and will only stop when memory is full
 // for loops are used when the number of iterations is known
 // while loops are used when we don't know how many iterations there will be
+
+// The break statement in Java terminates the loop immediately, and the control of the program moves to the next statement following the loop
+// If loops are nested, break; will terminate the innermost
+// A "labeled" break will terminate the statement with the labeled statement
+
+// The continue statement skips the current iteration of a loop (for, while, do...while, etc).
+// The use of labeled continue is often discouraged as it makes your code hard to understand.
+// If you are in a situation where you have to use labeled continue, refactor your code and try to solve it in a different way to make it more readable.
