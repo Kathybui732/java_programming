@@ -1,6 +1,6 @@
 package com.flowControl;
 
-public class flowControl {
+public class FlowControl {
     public static void main(String[] args) {
         int temp = 32;
         if (temp > 30) {
